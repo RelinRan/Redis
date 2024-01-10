@@ -26,7 +26,7 @@ repositories {
 
 ```
 dependencies {
-	implementation 'com.github.RelinRan:Redis:2024.01.10.1'
+	implementation 'com.github.RelinRan:Redis:2024.01.10.3'
 }
 ```
 
