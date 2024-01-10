@@ -7,7 +7,7 @@ Java-微型redis客户端工具
 |名字|资源|
 |-|-|
 |Jar|[下载](https://github.com/RelinRan/Redis/tree/main/jar)|
-|JavaDoc|[查看](https://github.com/RelinRan/Redis/doc/socket/redis/Redis.html)|
+|JavaDoc|[查看](https://github.com/RelinRan/Redis/doc)|
 |GitHub |[查看](https://github.com/Redis/Redis)|
 |Gitee|[查看](https://gitee.com/relin/Redis)|
 
